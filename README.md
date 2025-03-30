@@ -1,11 +1,12 @@
 # React Real-Time Chat Application
 
-**Company**: CodeTech IT Solutions  
-**Name**: Mayank Verma  
-**Intern ID**: CTO4WY20  
-**Domain**: Front End Development  
-**Duration**: 4 Weeks  
-**Mentor**: Vaishali Shrivastava
+**Company:** CodeTech IT Solutions  
+**Name:** MAYANK VERMA  
+**Intern ID:** CTO4WY20  
+**Domain:** FRONT END DEVELOPMENT  
+**Duration:** 4 WEEKS  
+**Mentor:** NEELA SANTOSH
+
 
 A modern real-time chat application built using React, Socket.io, and Express.
 
